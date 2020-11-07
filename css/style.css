@@ -1,0 +1,12 @@
+* {
+    margin: auto;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+}
+
+.extra-text {
+    font-size: 25px;
+}
